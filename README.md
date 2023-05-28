@@ -42,7 +42,7 @@ Follow these steps to get started with Musify:
 
     bash
 
-git clone https://github.com/your-username/musify.git
+    git clone https://github.com/Shoeb-K/musify.git
 
 Navigate to the project directory:
 
