@@ -1,4 +1,5 @@
-# musify music player
+# Musify music player
+
  Welcome to the Musify GitHub repository! Musify is a music player built in Python using various libraries to provide a seamless audio playback experience. With its sleek design and powerful features, Musify offers a delightful way to listen to your favorite songs right from your computer.
 Project Overview
 
