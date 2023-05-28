@@ -58,7 +58,7 @@ Run the application:
 
 css
 
-    python main.py
+    python musify.py
 
     Explore Musify and enjoy your favorite music!
 
