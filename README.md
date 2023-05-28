@@ -38,7 +38,7 @@ Getting Started
 
 Follow these steps to get started with Musify:
 
-    Clone this repository to your local machine using the following command:
+Clone this repository to your local machine using the following command:
 
     bash
 
@@ -46,13 +46,13 @@ Follow these steps to get started with Musify:
 
 Navigate to the project directory:
 
-bash
+    bash
 
-cd musify
+    cd musify
 
 Install the necessary dependencies using pip:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Run the application:
 
