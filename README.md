@@ -61,7 +61,7 @@ css
     python musify.py
 
     Explore Musify and enjoy your favorite music!
-
+https://github.com/Shoeb-K/musify/blob/main/output%20musify.png?raw=true
 Contributing
 
 Contributions to the Musify project are always welcome! If you have any ideas, suggestions, bug fixes, or new features to propose, please submit a pull request. Let's work together to make Musify even better!
